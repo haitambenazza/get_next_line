@@ -6,3 +6,4 @@ This project is about programming a function that returns a line read from a fil
     you can define the BUFFER_SIZE to specify how many bites you want to read "-D BUFFER_SIZE=n".
 # BONUS PART
     will allow you to read from multi files 
+if you find any bug or a leak please report it :)
